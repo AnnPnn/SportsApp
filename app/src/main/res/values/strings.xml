@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sports App</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="workout_plan">Workout Plan</string>
+    <string name="no_workouts">No workouts</string>
+    <string name="create">Create</string>
+    <string name="add">Add</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="network_connect_is_required">Network connect is required</string>
+    <string name="reset">Reset</string>
+    <string-array name="priorities">
+        <item>run</item>
+        <item>ellipsoid</item>
+        <item>swimming</item>
+        <item>walking</item>
+        <item>yoga</item>
+        <item>dancing</item>
+        <item>pilates</item>
+    </string-array>
+</resources>
